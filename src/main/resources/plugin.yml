@@ -1,0 +1,4 @@
+name: MultiServerChatting
+author: skh6075
+main: org.skh6075.multiserverchat.Loader
+version: 1.0.0
